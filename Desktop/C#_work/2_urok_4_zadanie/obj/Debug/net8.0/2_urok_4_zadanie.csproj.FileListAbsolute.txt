@@ -1,0 +1,14 @@
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\bin\Debug\net8.0\2_urok_4_zadanie.exe
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\bin\Debug\net8.0\2_urok_4_zadanie.deps.json
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\bin\Debug\net8.0\2_urok_4_zadanie.runtimeconfig.json
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\bin\Debug\net8.0\2_urok_4_zadanie.dll
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\bin\Debug\net8.0\2_urok_4_zadanie.pdb
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\obj\Debug\net8.0\2_urok_4_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\obj\Debug\net8.0\2_urok_4_zadanie.AssemblyInfoInputs.cache
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\obj\Debug\net8.0\2_urok_4_zadanie.AssemblyInfo.cs
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\obj\Debug\net8.0\2_urok_4_zadanie.csproj.CoreCompileInputs.cache
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\obj\Debug\net8.0\2_urok_4_zadanie.dll
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\obj\Debug\net8.0\refint\2_urok_4_zadanie.dll
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\obj\Debug\net8.0\2_urok_4_zadanie.pdb
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\obj\Debug\net8.0\2_urok_4_zadanie.genruntimeconfig.cache
+C:\Users\пека\Desktop\C#_work\2_urok_4_zadanie\obj\Debug\net8.0\ref\2_urok_4_zadanie.dll
